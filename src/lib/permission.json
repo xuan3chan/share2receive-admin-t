@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "namePermission": "Quản lý",
+    "action": "manage",
+    "subject": "all",
+    "color": {
+      "subject_color": "#FF0000",
+      "action_color": "#FF69B4"
+    }
+  },
+  {
+    "id": 1,
+    "namePermission": "Đọc quản trị viên",
+    "action": "read",
+    "subject": "admin",
+    "color": {
+      "subject_color": "#00FF00",
+      "action_color": "#87CEEB"
+    }
+  },
+  {
+    "id": 2,
+    "namePermission": "Tạo quản trị viên",
+    "action": "create",
+    "subject": "admin",
+    "color": {
+      "subject_color": "#00FF00",
+      "action_color": "#32CD32"
+    }
+  },
+  {
+    "id": 3,
+    "namePermission": "Xóa quản trị viên",
+    "action": "delete",
+    "subject": "admin",
+    "color": {
+      "subject_color": "#00FF00",
+      "action_color": "#DC143C"
+    }
+  },
+  {
+    "id": 4,
+    "namePermission": "Cập nhật quản trị viên",
+    "action": "update",
+    "subject": "admin",
+    "color": {
+      "subject_color": "#00FF00",
+      "action_color": "#FFD700"
+    }
+  },
+  {
+    "id": 5,
+    "namePermission": "Chặn quản trị viên",
+    "action": "block",
+    "subject": "admin",
+    "color": {
+      "subject_color": "#00FF00",
+      "action_color": "#8B0000"
+    }
+  },
+  {
+    "id": 6,
+    "namePermission": "Tạo vai trò",
+    "action": "create",
+    "subject": "role",
+    "color": {
+      "subject_color": "#0000FF",
+      "action_color": "#32CD32"
+    }
+  },
+  {
+    "id": 7,
+    "namePermission": "Xóa vai trò",
+    "action": "delete",
+    "subject": "role",
+    "color": {
+      "subject_color": "#0000FF",
+      "action_color": "#DC143C"
+    }
+  },
+  {
+    "id": 8,
+    "namePermission": "Cập nhật vai trò",
+    "action": "update",
+    "subject": "role",
+    "color": {
+      "subject_color": "#0000FF",
+      "action_color": "#FFD700"
+    }
+  },
+  {
+    "id": 9,
+    "namePermission": "Đọc vai trò",
+    "action": "read",
+    "subject": "role",
+    "color": {
+      "subject_color": "#0000FF",
+      "action_color": "#87CEEB"
+    }
+  },
+  {
+    "id": 14,
+    "namePermission": "Tạo người dùng",
+    "action": "create",
+    "subject": "user",
+    "color": {
+      "subject_color": "#FFFF00",
+      "action_color": "#32CD32"
+    }
+  },
+  {
+    "id": 15,
+    "namePermission": "Xóa người dùng",
+    "action": "delete",
+    "subject": "user",
+    "color": {
+      "subject_color": "#FFFF00",
+      "action_color": "#DC143C"
+    }
+  },
+  {
+    "id": 16,
+    "namePermission": "Cập nhật người dùng",
+    "action": "update",
+    "subject": "user",
+    "color": {
+      "subject_color": "#FFFF00",
+      "action_color": "#FFD700"
+    }
+  },
+  {
+    "id": 17,
+    "namePermission": "Đọc người dùng",
+    "action": "read",
+    "subject": "user",
+    "color": {
+      "subject_color": "#FFFF00",
+      "action_color": "#87CEEB"
+    }
+  },
+  {
+    "id": 18,
+    "namePermission": "Chặn người dùng",
+    "action": "block",
+    "subject": "user",
+    "color": {
+      "subject_color": "#FFFF00",
+      "action_color": "#8B0000"
+    }
+  },
+  {
+    "id": 19,
+    "namePermission": "Tạo danh mục",
+    "action": "create",
+    "subject": "category",
+    "color": {
+      "subject_color": "#FFA500",
+      "action_color": "#32CD32"
+    }
+  },
+  {
+    "id": 20,
+    "namePermission": "Xóa danh mục",
+    "action": "delete",
+    "subject": "category",
+    "color": {
+      "subject_color": "#FFA500",
+      "action_color": "#DC143C"
+    }
+  },
+  {
+    "id": 21,
+    "namePermission": "Cập nhật danh mục",
+    "action": "update",
+    "subject": "category",
+    "color": {
+      "subject_color": "#FFA500",
+      "action_color": "#FFD700"
+    }
+  },
+  {
+    "id": 22,
+    "namePermission": "Đọc danh mục",
+    "action": "read",
+    "subject": "category",
+    "color": {
+      "subject_color": "#FFA500",
+      "action_color": "#87CEEB"
+    }
+  },
+  {
+    "id": 23,
+    "namePermission": "Đọc thương hiệu",
+    "action": "read",
+    "subject": "brand",
+    "color": {
+      "subject_color": "#FF69B4",
+      "action_color": "#87CEEB"
+    }
+  },
+  {
+    "id": 24,
+    "namePermission": "Tạo thương hiệu",
+    "action": "create",
+    "subject": "brand",
+    "color": {
+      "subject_color": "#FF69B4",
+      "action_color": "#32CD32"
+    }
+  },
+  {
+    "id": 25,
+    "namePermission": "Xóa thương hiệu",
+    "action": "delete",
+    "subject": "brand",
+    "color": {
+      "subject_color": "#FF69B4",
+      "action_color": "#DC143C"
+    }
+  },
+  {
+    "id": 26,
+    "namePermission": "Cập nhật thương hiệu",
+    "action": "update",
+    "subject": "brand",
+    "color": {
+      "subject_color": "#FF69B4",
+      "action_color": "#FFD700"
+    }
+  }
+]
